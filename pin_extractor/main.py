@@ -10,4 +10,4 @@ def pin_extractor(poems):
             else:
                 secret_code += '0'
         secret_codes.append(secret_code)
-    return secret_codes
+    return secret_codes 
